@@ -21,6 +21,8 @@
 - ECRにローカル環境で動くImageを登録してlaunch_configの参照先を切り替えたい
   - イメージ更新とECRへの登録はPackerを噛ませたい
 - Cloudwatchで適切な監視設定を定義したい
+  - 欲を言えばCloudwatch Container Insightsを使いたい
+  - Datadogとの比較もしてみたい
 - RDS, Redisと疎通確認まで取れるhealthを作成したい
 - kopsとかkube-awsも使ってみたい
 
