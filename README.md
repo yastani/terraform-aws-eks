@@ -25,6 +25,7 @@
   - Datadogとの比較もしてみたい
 - RDS, Redisと疎通確認まで取れるhealthを作成したい
 - kopsとかkube-awsも使ってみたい
+- 最終的には参考[2]の構成まで考慮したい
 
 ## 所感
 
@@ -32,4 +33,5 @@
 
 ## 参考
 
-https://dev.classmethod.jp/cloud/aws/terraform-eks-create/
+1. https://dev.classmethod.jp/cloud/aws/terraform-eks-create/
+1. https://www.sentialabs.io/2018/10/21/Integrating-EKS-with-other-AWS-services.html
